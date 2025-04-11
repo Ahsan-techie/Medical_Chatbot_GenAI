@@ -1,1 +1,1 @@
-# Medical_Chatbot_GenAI_with_CICD
+# Medical_Chatbot_GenAI_using_CICD
